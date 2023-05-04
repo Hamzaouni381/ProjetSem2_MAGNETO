@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "6252539536",
+    "project_id": "authpage-ce77c",
+    "storage_bucket": "authpage-ce77c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6252539536:android:300df9e5f76220d6a23215",
+        "android_client_info": {
+          "package_name": "com.example.authpages"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6252539536-1bcn28t406r2gssjod2i9uimc1devm64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd3YPe3KT3Uwxzkhm3Y2dXEoLF-bJUR0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6252539536-1bcn28t406r2gssjod2i9uimc1devm64.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
